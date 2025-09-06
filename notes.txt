@@ -1,0 +1,7 @@
+Toutes les installations concernant React
+  - npm create vite@latest
+  - npm create vite@latest . // dans le dossier courant
+  - npm i react-router // pour créer les routes
+  - npm i react-hot-toast // pour utiliser toast (pour les visuels)
+  - npm i lucide-react // pour utiliser les icons
+  - npm i axios // liaison avec le backend
